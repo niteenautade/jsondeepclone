@@ -1,0 +1,23 @@
+{
+  "name": "jsondeepclone",
+  "version": "1.0.0",
+  "description": "Deep subtracts two javascript objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://niteenautade@github.com/niteenautade/jsondeepclone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niteenautade/jsondeepclone/issues"
+  },
+  "homepage": "https://github.com/niteenautade/jsondeepclone#readme",
+  "author": {
+    "name": "Niteen Autade",
+    "email": "niteenautade@gmail.com",
+    "url": "https://github.com/niteenautade"
+  },
+  "license": "ISC"
+}
