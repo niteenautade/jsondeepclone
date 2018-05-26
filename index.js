@@ -1,4 +1,4 @@
-var jsonDeepClone = function (source){
+module.exports = function jsonDeepClone(source){
   var copy = {}
   if(typeof(source)=="object" && !Array.isArray(source)){
     Object.keys(source).forEach(function(key){
@@ -18,4 +18,3 @@ var jsonDeepClone = function (source){
   }
   return copy
 }
-module.exports = jsonDeepClone

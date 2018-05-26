@@ -1,6 +1,6 @@
 {
   "name": "jsondeepclone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deep clones a javascript object",
   "main": "index.js",
   "scripts": {
