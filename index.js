@@ -1,4 +1,3 @@
-
 var jsonDeepClone = function (source){
   var copy = {}
   if(typeof(source)=="object" && !Array.isArray(source)){
